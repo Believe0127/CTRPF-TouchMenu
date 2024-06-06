@@ -1,0 +1,17 @@
+Author: Believe
+
+Version: # Plugin version
+    Major: 0
+    Minor: 0
+    Revision: 0
+
+Targets: # Low TitleId of games which are compatibles with this plugin (0 for all)
+
+Title: TouchMenu
+
+Summary: Reproduction of Touch Menu
+
+Description: Reproduction of Touch Menu
+
+Compatibility: Any
+MemorySize: 5MiB
